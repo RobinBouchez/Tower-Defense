@@ -1,2 +1,2 @@
 # Tower-Defense
-A tower defense game made with Lisp
+A tower defense game made in Scheme r5rs
